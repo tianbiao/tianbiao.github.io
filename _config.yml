@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://tianbiao.github.io/
+url: https://tianbiao.github.io
 date_format: "ordinal"
 title: 田彪的个人网站
 subtitle: "公众号："
