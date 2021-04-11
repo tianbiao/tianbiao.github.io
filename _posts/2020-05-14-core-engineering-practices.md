@@ -18,3 +18,6 @@ keywords: Software Development
 ## 质量和技术债的有效管理（Quality and Debt effectively managed）
 ## 构建生产环境（Build for Production）
 
+下图展示工程实践依据的核心价值：
+
+![Core Value](../images/blog/ThoughtWorks%20Engineering%20Practices%20-%20Core%20Value.png)
