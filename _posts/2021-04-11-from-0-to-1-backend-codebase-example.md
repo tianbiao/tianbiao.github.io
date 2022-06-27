@@ -17,6 +17,8 @@ keywords: Software Development
 Maven, Gradle
 
 ## 静态代码检查
+Semgrep, whispers
+
 ### 代码风格检查 
 checkstyle
 ### 项目依赖扫描 
