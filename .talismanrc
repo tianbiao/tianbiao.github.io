@@ -1,3 +1,3 @@
 fileignoreconfig:
-- filename: _drafts/2022-03-22-remove-all-docker-images-containers-and-volumes.md
-  checksum: b313024dfde9c6267a68561b36f7ed8c672a83b1104381e60533083a50d30635
+- filename: _posts/2022-06-27-secrets-rotate.md
+  checksum: 46c7dd3c79fc7c4d340bda74b96ca64513b5cdc928169b99e6e04e35ba487af5
